@@ -5,7 +5,7 @@ Architecture:
 At DDC, we specialize in architectural design that goes beyond structures – it's about creating living spaces that harmonize with the environment and elevate the human experience. Our team of architects is committed to turning your concepts into tangible, innovative designs.
 
 Interior Designing:
-Elevate your surroundings with our expert interior designing services. At [Company Name], we believe that interiors should reflect your style and enhance functionality. Our talented designers work closely with clients to transform spaces into aesthetically pleasing and highly functional environments.
+Elevate your surroundings with our expert interior designing services. At DDC, we believe that interiors should reflect your style and enhance functionality. Our talented designers work closely with clients to transform spaces into aesthetically pleasing and highly functional environments.
 
 Digital Marketing:
 In the digital age, a strong online presence is essential. Our digital marketing services are designed to propel your brand to new heights. From strategic planning to implementation, we offer a comprehensive approach that includes SEO, social media management, and engaging content creation. Let [Company Name] be your partner in navigating the digital landscape.
