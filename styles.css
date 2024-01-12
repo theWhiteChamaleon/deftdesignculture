@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: rgb(226, 193, 60);
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    max-width: 150px; /* Adjust the size as needed */
+    margin-right: 10px;
+}
+
+.company-info {
+    text-align: left;
+}
+
+h1, .slogan {
+    margin: 0;
+}
+
+.slogan {
+    font-style: italic;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+footer {
+    background-color: black;
+    color: rgb(226, 193, 60);
+    padding: 20px;
+    text-align: center;
+}
+
+.contact-us {
+    border-top: 2px solid rgb(226, 193, 60);
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+a {
+    color: rgb(226, 193, 60);
+}
+
+a:hover {
+    text-decoration: underline;
+}
