@@ -60,3 +60,40 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.construction-animation {
+    text-align: center;
+}
+
+.coming-soon {
+    font-size: 24px;
+    color: rgb(226, 193, 60);
+    display: inline-block;
+    opacity: 0;
+    transform: translateY(-100%);
+    animation: fallAnimation 1.5s forwards ease-in-out, heartbeatAnimation 2s infinite alternate ease-in-out;
+}
+
+@keyframes fallAnimation {
+    0% {
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+    50% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0) scale(1.2);
+    }
+}
+
+@keyframes heartbeatAnimation {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.2);
+    }
+}
