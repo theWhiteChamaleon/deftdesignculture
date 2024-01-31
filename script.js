@@ -15,7 +15,7 @@
 var emailAddress = "deftdigital.india@gmail.com";
 var phoneNumber = "+91 9588439955";
 var companyAddress = "102, Narmada Heights, DP Road, Pune, Maharashtra, 411038";
-var slogan = "Your one stop solution for Architecure and Marketing needs"
+var slogan = "Your one stop solution for Architecture and Marketing needs"
 var companName = "Deft Design Culture"
 
 // Set content in HTML
